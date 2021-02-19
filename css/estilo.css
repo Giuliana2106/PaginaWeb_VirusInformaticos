@@ -1,0 +1,20 @@
+p{
+    color: darkslategray;
+}
+
+h1{
+    color: indigo;
+}
+
+h2{
+    color: lightcyan;
+}
+
+body{
+    background-color: lightcoral;
+    
+}
+
+img{
+    height: 100px; width: 100px;
+}
